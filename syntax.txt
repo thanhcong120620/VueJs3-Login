@@ -19,4 +19,11 @@ export default function authHeader() {
     return {};
   }
 }
-
+---------------------------------
+Cài đặt
+npm install vue-router@4
+npm install vuex@4
+npm install vee-validate@4 yup
+npm install axios
+npm install bootstrap@4 jquery popper.js
+npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/vue-fontawesome@prerelease
